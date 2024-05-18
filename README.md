@@ -2,9 +2,12 @@
 <br>
 Este é o repositório oficial do projeto do site de comércio eletrônico da Meteora, uma empresa que busca oferecer roupas atemporais, casuais e sem gênero. O objetivo deste projeto é criar uma plataforma de e-commerce que proporcione uma experiência de compra incrível para os clientes da Meteora, além de ajudar a empresa a se consolidar como uma referência no mercado digital.
 <br>
-
+<br>
+<br>
 
 ![meteora](https://github.com/MCMMagnum/LojaMeteora/assets/129328666/200166af-aca3-415f-9ba0-301ff22b150a)
+<br>
+<br>
 
 <h3>Requisitos do Projeto</h3>
 O projeto tem como objetivo criar um site de e-commerce com os seguintes recursos:
