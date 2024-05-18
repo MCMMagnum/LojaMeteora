@@ -1,4 +1,4 @@
-Meteora E-Commerce Website
+<h1>Meteora E-Commerce Website</h1>
 Este é o repositório oficial do projeto do site de comércio eletrônico da Meteora, uma empresa que busca oferecer roupas atemporais, casuais e sem gênero. O objetivo deste projeto é criar uma plataforma de e-commerce que proporcione uma experiência de compra incrível para os clientes da Meteora, além de ajudar a empresa a se consolidar como uma referência no mercado digital.
 
 
@@ -30,6 +30,7 @@ Ferramentas Utilizadas
 Durante o desenvolvimento deste projeto, utilizaremos as seguintes ferramentas:
 
 Linguagens: HTML e Css.
+
 Sistema Ágil: Utilizaremos o sistema ágil de desenvolvimento para melhorar a eficiência e adaptar-nos às mudanças ao longo do projeto.
 Trello: O Trello será usado para gerenciar as tarefas. O quadro estará organizado da seguinte forma:
 Pronto para Iniciar: Cartões com os elementos que ainda não foram desenvolvidos.
