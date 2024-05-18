@@ -1,10 +1,12 @@
 <h1>Meteora E-Commerce Website</h1>
+<br>
 Este é o repositório oficial do projeto do site de comércio eletrônico da Meteora, uma empresa que busca oferecer roupas atemporais, casuais e sem gênero. O objetivo deste projeto é criar uma plataforma de e-commerce que proporcione uma experiência de compra incrível para os clientes da Meteora, além de ajudar a empresa a se consolidar como uma referência no mercado digital.
+<br>
 
 
 ![meteora](https://github.com/MCMMagnum/LojaMeteora/assets/129328666/200166af-aca3-415f-9ba0-301ff22b150a)
 
-Requisitos do Projeto
+<h3>Requisitos do Projeto</h3>
 O projeto tem como objetivo criar um site de e-commerce com os seguintes recursos:
 
 Página Inicial: Uma página inicial contendo um buscador de produtos oferecidos pela empresa.
@@ -23,10 +25,10 @@ Cadastro na Newsletter: Uma seção para os clientes se cadastrarem na newslette
 
 Rodapé: Um rodapé com informações adicionais do site.
 
-Responsividade
+<h3>Responsividade</h3>
 O site será desenvolvido de forma responsiva, para garantir uma experiência de compra otimizada para dispositivos móveis.
 
-Ferramentas Utilizadas
+<h3>Ferramentas Utilizadas</h3>
 Durante o desenvolvimento deste projeto, utilizaremos as seguintes ferramentas:
 
 Linguagens: HTML e Css.
@@ -37,7 +39,9 @@ Pronto para Iniciar: Cartões com os elementos que ainda não foram desenvolvido
 Desenvolvendo: Cartões com os elementos em desenvolvimento no momento.
 Pausado: Cartões para tarefas que foram iniciadas, mas pausadas temporariamente.
 Concluído: Cartões para elementos que foram finalizados.
-Prazo
+<br>
+
+<h3>Prazo</h3>
 O prazo para conclusão deste projeto é de quatro semanas. Iremos trabalhar diligentemente para atender aos requisitos e cumprir o prazo estabelecido.
 
 Design e Recursos
